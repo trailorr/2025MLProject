@@ -10,6 +10,8 @@ python3 -m venv venv
 
 source venv/bin/activate
 
+brew install graphviz
+
 pip install -r requirements.txt
 
 python3 ml_project.py
