@@ -12,7 +12,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-python ml_project.py
+python3 ml_project.py
 
 ## Individual Contributions
 
