@@ -2,7 +2,11 @@
 
 ## Runnable Scripts/Commands
 
-python -m venv venv
+git clone https://github.com/trailorr/2025MLProject.git
+
+cd 2025MLProject
+
+python3 -m venv venv
 
 source venv/bin/activate
 
